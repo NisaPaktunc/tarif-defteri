@@ -3,7 +3,7 @@
 Modern ve kullanışlı bir tarif yönetim uygulaması. Tariflerini ekle, düzenle, puanla ve kategorilere göre filtrele!
 
 ## 🚀 Canlı Demo
-🔗 [Uygulamayı Görüntüle](https://netlify-linkin-buraya-gelecek)
+🔗 [Uygulamayı Görüntüle](https://tarif-defteri-nisa.netlify.app)
 
 ## 📸 Ekran Görüntüsü
 ![Tarif Defterim](./screenshot.png)
